@@ -1,0 +1,510 @@
+Medical O
+Record O
+
+Patient O
+Information: O
+
+Name: O
+John O
+Doe O
+
+Date O
+of O
+Birth: O
+January O
+15, O
+1985 O
+
+Gender: O
+Male O
+
+Patient O
+ID: O
+123456 O
+
+Visited: O
+20 B-VISITDATE
+/ I-VISITDATE
+08 I-VISITDATE
+/ I-VISITDATE
+2020 I-VISITDATE
+
+Chief O
+Complaint: O
+
+Pain O
+in O
+the O
+right O
+ankle O
+and O
+joint O
+of O
+the O
+right O
+foot O
+
+History O
+of O
+Present O
+Illness O
+(HPI): O
+
+Onset: O
+The O
+pain O
+started O
+approximately O
+3 O
+weeks O
+ago O
+after O
+a O
+minor O
+sprain. O
+
+Location: O
+Right O
+ankle O
+and O
+joint O
+of O
+the O
+right O
+foot. O
+
+Duration: O
+Persistent, O
+worsening O
+with O
+activity. O
+
+Characteristics: O
+Sharp, O
+throbbing O
+pain O
+with O
+swelling O
+and O
+tenderness. O
+
+Aggravating O
+Factors: O
+Walking, O
+standing O
+for O
+long O
+periods, O
+and O
+physical O
+activity. O
+
+Relieving O
+Factors: O
+Rest, O
+ice O
+application, O
+elevation, O
+and O
+over-the-counter O
+pain O
+medications O
+(ibuprofen). O
+
+Associated O
+Symptoms: O
+Swelling, O
+stiffness, O
+and O
+occasional O
+bruising. O
+
+Past O
+Medical O
+History: O
+
+Chronic O
+Conditions: O
+Hypertension, O
+Type O
+2 O
+Diabetes. O
+
+Previous O
+Surgeries: O
+Appendectomy O
+(2010). O
+
+Medications: O
+Metformin, O
+Lisinopril, O
+Ibuprofen O
+(as O
+needed O
+for O
+pain). O
+
+Allergies: O
+No O
+known O
+drug O
+allergies. O
+
+Social O
+History: O
+
+Occupation: O
+Office O
+worker. O
+
+Smoking: O
+Non-smoker. O
+
+Alcohol O
+Use: O
+Occasionally. O
+
+
+Exercise: O
+Infrequent. O
+
+Family O
+History: O
+
+Father: O
+Hypertension, O
+Heart O
+disease. O
+
+Mother: O
+Type O
+2 O
+Diabetes. O
+
+Siblings: O
+Healthy. O
+
+Review O
+of O
+Systems: O
+
+General: O
+No O
+fever, O
+no O
+weight O
+loss. O
+
+Musculoskeletal: O
+Pain O
+in O
+the O
+right O
+ankle O
+and O
+joint O
+of O
+the O
+right O
+foot, O
+no O
+other O
+joint O
+pain O
+or O
+swelling. O
+
+Neurological: O
+No O
+numbness O
+or O
+tingling. O
+
+Cardiovascular: O
+No O
+chest O
+pain, O
+no O
+palpitations. O
+
+Respiratory: O
+No O
+shortness O
+of O
+breath, O
+no O
+cough. O
+
+Physical O
+Examination: O
+
+General: O
+Alert, O
+well-nourished, O
+in O
+no O
+acute O
+distress. O
+
+Vital O
+Signs: O
+
+Blood O
+Pressure: O
+130/85 O
+mmHg. O
+
+Heart O
+Rate: O
+78 O
+bpm. O
+
+Respiratory O
+Rate: O
+16 O
+breaths/min. O
+
+Temperature: O
+98.6 F O
+(37 C). O
+
+Inspection: O
+Swelling O
+and O
+mild O
+bruising O
+around O
+the O
+right O
+ankle O
+and O
+foot. O
+
+Palpation: O
+Tenderness O
+over O
+the O
+lateral O
+aspect O
+of O
+the O
+right O
+ankle O
+and O
+dorsum O
+of O
+the O
+right O
+foot. O
+
+Range O
+of O
+Motion: O
+Limited O
+due O
+to O
+pain O
+and O
+swelling, O
+especially O
+in O
+dorsiflexion O
+and O
+plantarflexion. O
+
+Strength: O
+4/5 O
+in O
+the O
+right O
+lower O
+extremity. O
+
+Reflexes: O
+Normal O
+deep O
+tendon O
+reflexes O
+in O
+the O
+lower O
+extremities. O
+
+Sensation: O
+Intact O
+sensation O
+in O
+the O
+right O
+foot O
+and O
+ankle. O
+
+Special O
+Tests: O
+Negative O
+anterior O
+drawer O
+test, O
+negative O
+talar O
+tilt O
+test O
+indicating O
+no O
+major O
+ligamentous O
+instability. O
+
+Assessment: O
+
+
+Prognosis: O
+Right B-DIAGNOSE
+ankle I-DIAGNOSE
+sprain I-DIAGNOSE
+with I-DIAGNOSE
+possible I-DIAGNOSE
+involvement I-DIAGNOSE
+of I-DIAGNOSE
+the I-DIAGNOSE
+joint I-DIAGNOSE
+of I-DIAGNOSE
+the I-DIAGNOSE
+right I-DIAGNOSE
+foot. I-DIAGNOSE
+
+Differential O
+Prognosis: O
+Ankle B-DIAGNOSE
+fracture, I-DIAGNOSE
+tendonitis, I-DIAGNOSE
+arthritis. I-DIAGNOSE
+
+Plan: O
+
+Imaging: O
+Order O
+X-ray O
+of O
+the O
+right O
+ankle O
+and O
+foot O
+to O
+rule O
+out O
+fracture. O
+
+Medications: O
+Continue O
+ibuprofen O
+for O
+pain O
+management; O
+consider O
+prescribing O
+a O
+stronger O
+anti-inflammatory O
+if O
+necessary. O
+
+Referral: O
+Refer O
+to O
+orthopedic O
+specialist O
+for O
+further O
+evaluation O
+if O
+no O
+improvement. O
+
+Physical O
+Therapy: O
+Recommend O
+physical O
+therapy O
+for O
+rehabilitation O
+and O
+strengthening O
+exercises. O
+
+Activity: O
+Advise O
+patient O
+to O
+avoid O
+weight-bearing O
+activities O
+on O
+the O
+affected O
+foot; O
+use O
+crutches O
+if O
+necessary. O
+
+Follow-Up: O
+Schedule O
+follow-up O
+appointment O
+in O
+2 O
+weeks O
+to O
+review O
+X-ray O
+results O
+and O
+assess O
+response O
+to O
+treatment. O
+
+Patient O
+Education: O
+
+Discussed O
+the O
+nature O
+of O
+the O
+condition, O
+potential O
+causes, O
+and O
+treatment O
+options. O
+
+Instructed O
+on O
+proper O
+use O
+of O
+medication O
+and O
+importance O
+of O
+adhering O
+to O
+prescribed O
+therapy. O
+
+Encouraged O
+patient O
+to O
+report O
+any O
+worsening O
+symptoms O
+or O
+new O
+concerns. O
+
+

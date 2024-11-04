@@ -1,0 +1,490 @@
+Medical O
+Record O
+
+Patient O
+Information: O
+
+Name: O
+John O
+Doe O
+
+Date O
+of O
+Birth: O
+January O
+15, O
+1985 O
+
+Gender: O
+Male O
+
+Patient O
+ID: O
+123456 O
+
+Date O
+of O
+Visit: O
+Dec B-VISITDATE
+5, I-VISITDATE
+2019 I-VISITDATE
+
+Chief O
+Complaint: O
+
+Pain O
+in O
+the O
+neck O
+with O
+radiating O
+pain O
+to O
+the O
+arm O
+
+History O
+of O
+Present O
+Illness O
+(HPI): O
+
+Onset: O
+The O
+pain O
+started O
+approximately O
+1 O
+month O
+ago. O
+
+Location: O
+Mid-cervical O
+region O
+with O
+radiating O
+pain O
+to O
+the O
+right O
+arm. O
+
+Duration: O
+Persistent, O
+worsening O
+over O
+time. O
+
+Characteristics: O
+Sharp, O
+burning O
+pain O
+with O
+numbness O
+and O
+tingling O
+in O
+the O
+right O
+arm. O
+
+Aggravating O
+Factors: O
+Neck O
+movement, O
+prolonged O
+sitting. O
+
+Relieving O
+Factors: O
+Rest, O
+over-the-counter O
+pain O
+medications O
+(ibuprofen). O
+
+Associated O
+Symptoms: O
+Weakness O
+in O
+the O
+right O
+arm, O
+occasional O
+headaches. O
+
+Past O
+Medical O
+History: O
+
+Chronic O
+Conditions: O
+Hypertension, O
+Type O
+2 O
+Diabetes. O
+
+Previous O
+Surgeries: O
+Appendectomy O
+(2010). O
+
+Medications: O
+Metformin, O
+Lisinopril, O
+Ibuprofen O
+(as O
+needed O
+for O
+pain). O
+
+Allergies: O
+No O
+known O
+drug O
+allergies. O
+
+Social O
+History: O
+
+Occupation: O
+Office O
+worker. O
+
+Smoking: O
+Non-smoker. O
+
+Alcohol O
+Use: O
+Occasionally. O
+
+
+Exercise: O
+Infrequent. O
+
+Family O
+History: O
+
+Father: O
+Hypertension, O
+Heart O
+disease. O
+
+Mother: O
+Type O
+2 O
+Diabetes. O
+
+Siblings: O
+Healthy. O
+
+Review O
+of O
+Systems: O
+
+General: O
+No O
+fever, O
+no O
+weight O
+loss. O
+
+Musculoskeletal: O
+Pain O
+in O
+the O
+neck O
+and O
+right O
+arm, O
+no O
+other O
+joint O
+pain O
+or O
+swelling. O
+
+Neurological: O
+Numbness O
+and O
+tingling O
+in O
+the O
+right O
+arm, O
+occasional O
+headaches. O
+
+Cardiovascular: O
+No O
+chest O
+pain, O
+no O
+palpitations. O
+
+Respiratory: O
+No O
+shortness O
+of O
+breath, O
+no O
+cough. O
+
+Physical O
+Examination: O
+
+General: O
+Alert, O
+well-nourished, O
+in O
+no O
+acute O
+distress. O
+
+Vital O
+Signs: O
+
+Blood O
+Pressure: O
+130/85 O
+mmHg. O
+
+Heart O
+Rate: O
+78 O
+bpm. O
+
+Respiratory O
+Rate: O
+16 O
+breaths/min. O
+
+Temperature: O
+98.6 F O
+(37 C). O
+
+Inspection: O
+No O
+obvious O
+deformities, O
+swelling, O
+or O
+redness O
+in O
+the O
+cervical O
+region. O
+
+Palpation: O
+Tenderness O
+over O
+the O
+mid-cervical O
+spine, O
+particularly O
+at O
+C5-C6 O
+levels. O
+
+Range O
+of O
+Motion: O
+Limited O
+in O
+all O
+directions O
+due O
+to O
+pain. O
+
+Strength: O
+4/5 O
+in O
+the O
+right O
+upper O
+extremity. O
+
+Reflexes: O
+Decreased O
+biceps O
+reflex O
+on O
+the O
+right O
+side. O
+
+Sensation: O
+Decreased O
+sensation O
+in O
+the O
+C6 O
+dermatome O
+on O
+the O
+right O
+side. O
+
+Special O
+Tests: O
+Positive O
+Spurling's O
+test O
+indicating O
+possible O
+cervical O
+radiculopathy. O
+
+Assessment: O
+
+
+Primary O
+Diagnosis: O
+Cervical B-DIAGNOSE
+disk I-DIAGNOSE
+disorder I-DIAGNOSE
+with I-DIAGNOSE
+radiculopathy, I-DIAGNOSE
+mid-cervical I-DIAGNOSE
+region. I-DIAGNOSE
+
+Differential O
+Diagnoses: O
+Cervical B-DIAGNOSE
+spondylosis, I-DIAGNOSE
+herniated I-DIAGNOSE
+disc, I-DIAGNOSE
+cervical I-DIAGNOSE
+radiculopathy. I-DIAGNOSE
+
+Plan: O
+
+Imaging: O
+Order O
+MRI O
+of O
+the O
+cervical O
+spine O
+to O
+assess O
+the O
+degree O
+of O
+disk O
+disorder O
+and O
+radiculopathy. O
+
+Medications: O
+Prescribe O
+a O
+short O
+course O
+of O
+oral O
+steroids O
+for O
+inflammation, O
+continue O
+ibuprofen O
+for O
+pain O
+management. O
+
+Referral: O
+Refer O
+to O
+a O
+neurologist O
+for O
+further O
+evaluation. O
+
+Physical O
+Therapy: O
+Recommend O
+physical O
+therapy O
+for O
+neck O
+strengthening O
+exercises O
+and O
+pain O
+management. O
+
+Activity: O
+Advise O
+patient O
+to O
+avoid O
+activities O
+that O
+exacerbate O
+pain; O
+recommend O
+ergonomic O
+adjustments O
+at O
+work. O
+
+Follow-Up: O
+Schedule O
+follow-up O
+appointment O
+in O
+4 O
+weeks O
+to O
+review O
+MRI O
+results O
+and O
+assess O
+response O
+to O
+treatment. O
+
+Patient O
+Education: O
+
+Discussed O
+the O
+nature O
+of O
+the O
+condition, O
+potential O
+causes, O
+and O
+treatment O
+options. O
+
+Instructed O
+on O
+proper O
+use O
+of O
+medication O
+and O
+importance O
+of O
+adhering O
+to O
+prescribed O
+therapy. O
+
+Encouraged O
+patient O
+to O
+report O
+any O
+worsening O
+symptoms O
+or O
+new O
+concerns. O
+
+
